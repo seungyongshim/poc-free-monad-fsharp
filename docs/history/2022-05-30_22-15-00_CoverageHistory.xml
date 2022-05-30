@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-05-30_22-15-00" tag="13_2411561417">
+  <assembly name="poc">
+    <class name="poc.FaceBuilder" coveredlines="0" coverablelines="5" totallines="36" coveredbranches="0" totalbranches="0" coveredcodeelements="0" totalcodeelements="5" />
+    <class name="poc.FaceInstruction" coveredlines="0" coverablelines="3" totallines="36" coveredbranches="0" totalbranches="2" coveredcodeelements="0" totalcodeelements="1" />
+    <class name="poc.FaceProgram" coveredlines="0" coverablelines="3" totallines="36" coveredbranches="0" totalbranches="2" coveredcodeelements="0" totalcodeelements="1" />
+  </assembly>
+</coverage>
